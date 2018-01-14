@@ -2,40 +2,22 @@
 整理自己star过的内容
 
 -------
-
-
-
-Android Devoloper
-
-Android Reverse-Engineering Tools
-
-Android Hook
-
-Android Classloader
-
-Android Obfuscate
-
-Android obfuscated code
-
-Android Packer
-
-Android UnPacker
-
-Android Anti-Emulator
-
-Android Vulnerability
-
-Malware Analysis System
-
-CTF
-
-Software development
-
-Vulnerability-Research
-
-Fuzz
-
-Computer Basic
+* [Android Devoloper](#Android Devoloper)
+* [Android Reverse-Engineering Tools](#Android Reverse-Engineering Tools)
+* [Android Hook](#Android Hook)
+* [Android Classloader](#Android Classloader)
+* [Android Obfuscate](#Android Obfuscate)
+* [Android deobfuscated ](#Android deobfuscated )
+* [Android Packer](#Android Packer)
+* [Android UnPacker](#Android UnPacker)
+* [Android Anti-Emulator](#Android Anti-Emulator)
+* [Android Vulnerability](#Android Vulnerability)
+* [Malware Analysis System](#Malware Analysis System)
+* [CTF](#CTF )
+* [Software development](#Software development)
+* [Vulnerability-Research](#Vulnerability-Research)
+* [Fuzz](#Fuzz)
+* [Computer Basic](#AComputer Basic)
 
 
 
@@ -80,7 +62,7 @@ Computer Basic
 * [avpass反静态检测的工具](https://github.com/sslab-gatech/avpass)
 
 
-## Android obfuscated code
+## Android deobfuscated
 * [jeb脚本反混淆java代码](https://github.com/enovella/jebscripts)
 * [Generic Android Deobfuscator](https://github.com/CalebFenton/simplify)
 *  [使用符号执行和LLVM实现反混淆](https://github.com/JonathanSalwan/Tigress_protection)
