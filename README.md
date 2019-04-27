@@ -1,9 +1,35 @@
+
+
+![image](https://github.com/tangsilian/My-Github-Stars/android安全.jpg)
+
+refer:https://github.com/houjingyi233/how-to-Study-Android-Security
+
+
+
+
 # My Github Star
-整理自己star过的内容
 
 -------
 
+整理自己star过的android安全的内容
 
+
+* [Android Devoloper](#Android Devoloper)
+* [Android Reverse-Engineering Tools](#Android Reverse-Engineering Tools)
+* [Android Hook](#Android Hook)
+* [Android Classloader](#Android Classloader)
+* [Android Obfuscate](#Android Obfuscate)
+* [Android deobfuscated ](#Android deobfuscated )
+* [Android Packer](#Android Packer)
+* [Android UnPacker](#Android UnPacker)
+* [Android Anti-Emulator](#Android Anti-Emulator)
+* [Android Vulnerability](#Android Vulnerability)
+* [Malware Analysis System](#Malware Analysis System)
+* [CTF](#CTF )
+* [Software development](#Software development)
+* [Vulnerability-Research](#Vulnerability-Research)
+* [Fuzz](#Fuzz)
+* [Computer Basic](#Computer Basic)
 
 
 
@@ -26,7 +52,7 @@
 * [Android SO自动化分析工具](https://github.com/feicong/jni_helper)
 * [Dump Android Verified Boot Signature](https://github.com/bkerler/dump_avb_signature)
 * [Xposed免重启模块](https://github.com/shuihuadx/XposedHook)
-
+* [Xposed调试框架](https://gitee.com/virjar/xposedhooktool#droidsword%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8)
 ## Android Hook
 * [Android inline hook](https://github.com/ele7enxxh/Android-Inline-Hook)
 * [Android通用hook](https://github.com/boyliang/AllHookInOne)
@@ -46,6 +72,7 @@
 * [孤挺花-LLVM混淆器](https://github.com/GoSSIP-SJTU/Armariris)
 * [OLLVM_Deobfuscation](https://github.com/SCUBSRGroup/OLLVM_Deobfuscation)
 * [avpass反静态检测的工具](https://github.com/sslab-gatech/avpass)
+* [java代码混淆](https://github.com/superblaubeere27/obfuscator)
 
 
 ## Android deobfuscated
@@ -70,6 +97,10 @@
 * [安卓模拟器检测](https://github.com/MindMac/HideAndroidEmulator)
 * [基于文件特征的模拟器检测](https://github.com/ysrc/Anti-Emulator)
 
+
+## Android Emulator
+* [Android改机。ps：来自吴彦祖的iphonx](https://github.com/kingsollyu/AppEnv)
+* [DroidScope软件模拟器](https://github.com/xqx12/xqx/blob/master/droidscope_analysis.md)
 
 ## Android Vulnerability
 * [Android Kernel Exploit](https://github.com/Fuzion24/AndroidKernelExploitationPlayground)
@@ -120,5 +151,14 @@
 * [深入理解Linux内核](https://github.com/mengning/linuxkernel)
 * [linux-insides](https://github.com/0xAX/linux-insides)
 * [linux-kernel-module-cheat](https://github.com/cirosantilli/linux-kernel-module-cheat)
+
+## Book
+* [linux书籍](https://github.com/shihyu/Linux_Programming)
+
+
+## video
+* [速成计算机](https://github.com/1c7/crash-course-computer-science-chinese)
+* [pwn入门](https://www.youtube.com/watch?v=iyAyN3GFM7A&list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN)
+
 
 
