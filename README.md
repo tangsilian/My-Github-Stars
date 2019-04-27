@@ -2,7 +2,9 @@
 
 ![image](https://github.com/tangsilian/My-Github-Stars/blob/master/android%E5%AE%89%E5%85%A8.png)
 
-refer:https://github.com/houjingyi233/how-to-Study-Android-Security
+之前为面试梳理的思维导图
+
+参考:https://github.com/houjingyi233/how-to-Study-Android-Security
 
 
 
@@ -11,7 +13,7 @@ refer:https://github.com/houjingyi233/how-to-Study-Android-Security
 
 -------
 
-整理自己star过的android安全的内容
+以下为整理自己star过的android安全的内容
 
 
 * [Android Devoloper](#Android Devoloper)
