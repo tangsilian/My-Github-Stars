@@ -2,7 +2,7 @@
 
 ![image](https://github.com/tangsilian/My-Github-Stars/blob/master/android%E5%AE%89%E5%85%A8.png)
 
-之前为面试梳理的思维导图
+之前梳理的思维导图
 
 参考:https://github.com/houjingyi233/how-to-Study-Android-Security
 
